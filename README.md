@@ -1,4 +1,4 @@
-# Sobre mim:
+## Sobre mim:
 
 🧑‍💻 Desenvolvedor Back-end focado em criar soluções eficientes e escaláveis.
 📍 Natural de Recife, atualmente com 37 anos.
