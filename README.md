@@ -7,8 +7,12 @@
  Habilidades:
 
 💻 Java: Desenvolvimento de aplicações robustas.
+✨ Spring Framework
 🗄️ SQL (PostgreSQL): Manipulação de banco de dados e consultas complexas.
+📚 Microsserviços
 🌱 Git & GitHub: Controle de versão e colaboração em projetos open-source.
+
+
 #
  O que estou estudando:
 
